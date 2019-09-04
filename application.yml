@@ -8,6 +8,7 @@ spring:
     active: dev
   application:
     name: spring-cloud-config-dev
+    
 ---
 spring:
   profiles:
